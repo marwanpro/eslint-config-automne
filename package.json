@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-automne",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Automne's ESLint Configuration",
     "author": "Automne von Einzbern <marwan@automne.me>",
     "license": "MIT",
