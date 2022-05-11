@@ -222,7 +222,7 @@ module.exports = {
         '@typescript-eslint/no-namespace': 'off',
 
         // TS Overrides
-        '@typescript-eslint/indent': ['error', 4],
+        '@typescript-eslint/indent': ['error', 2],
         '@typescript-eslint/no-unused-vars': 'error',
         '@typescript-eslint/no-redeclare': 'error',
         '@typescript-eslint/no-use-before-define': ['error', { functions: false, classes: false, variables: true }],
