@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-automne",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Automne's ESLint Configuration",
     "author": "Automne von Einzbern <marwan@automne.me>",
     "license": "MIT",
@@ -17,31 +17,31 @@
         "url": "https://github.com/marwanpro/eslint-config-automne"
     },
     "devDependencies": {
-        "eslint": "^8.10.0",
-        "prettier": "^2.5.1",
-        "typescript": "^4.6.2"
+        "eslint": "^8.15.0",
+        "prettier": "^2.6.2",
+        "typescript": "^4.6.4"
     },
     "peerDependencies": {
-        "eslint": "^8.10.0"
+        "eslint": "^8.15.0"
     },
     "dependencies": {
-        "@typescript-eslint/eslint-plugin": "^5.14.0",
-        "@typescript-eslint/parser": "^5.14.0",
-        "eslint-config-standard": "^17.0.0-1",
+        "@typescript-eslint/eslint-plugin": "^5.23.0",
+        "@typescript-eslint/parser": "^5.23.0",
+        "eslint-config-standard": "^17.0.0",
         "eslint-plugin-eslint-comments": "^3.2.0",
         "eslint-plugin-html": "^6.2.0",
-        "eslint-plugin-import": "^2.25.4",
-        "eslint-plugin-json-schema-validator": "^2.3.13",
+        "eslint-plugin-import": "^2.26.0",
+        "eslint-plugin-json-schema-validator": "^2.4.4",
         "eslint-plugin-jsonc": "^2.2.1",
         "eslint-plugin-markdown": "^2.2.1",
-        "eslint-plugin-n": "^15.0.1",
+        "eslint-plugin-n": "^15.2.0",
         "eslint-plugin-promise": "^6.0.0",
-        "eslint-plugin-toml": "^0.3.0",
-        "eslint-plugin-unicorn": "^41.0.0",
-        "eslint-plugin-vue": "^8.5.0",
-        "eslint-plugin-yml": "^0.14.0",
+        "eslint-plugin-toml": "^0.3.1",
+        "eslint-plugin-unicorn": "^42.0.0",
+        "eslint-plugin-vue": "^8.7.1",
+        "eslint-plugin-yml": "^0.15.0",
         "jsonc-eslint-parser": "^2.1.0",
-        "toml-eslint-parser": "^0.3.0",
+        "toml-eslint-parser": "^0.4.0",
         "yaml-eslint-parser": "^0.5.0"
     },
     "publishConfig": {
